@@ -1,5 +1,6 @@
 import { Outlet, Link } from "react-router-dom";
 import { NavLink } from "react-router-dom";
+import MessengerCustomerChat from "react-messenger-customer-chat";
 
 const Layout = () => {
   const activeLink = ({isActive}) => {
@@ -12,7 +13,7 @@ const Layout = () => {
   // let activeClassName = "underline";
   return (
     <>
-      <div className="container">
+      <div className="container-fluid">
         <header className="app-header">
           
           <nav className="navbar navbar-expand-lg navbar-light" id="head">
@@ -61,7 +62,7 @@ const Layout = () => {
             </div>
           </nav>
 
-          <div className="modal fade" id="signin" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+          <div className="modal fade" id="signin" data-bs-backdrop="static" data-bs-keyboard="false" tabIndex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
             <div className="modal-dialog">
               <div className="modal-content">
                 <div className="modal-header">
@@ -73,12 +74,12 @@ const Layout = () => {
                   <form>
                     <div className="mx-5">
                       <div className="col mb-2">
-                        <label for="validationDefault01" className="form-label mb-0">Email</label>
+                        <label htmlFor="validationDefault01" className="form-label mb-0">Email</label>
                         <input type="email" className="form-control" id="validationDefault01" required />
                       </div>
                      
                       <div className="col mb-2">
-                        <label for="inputPassword" className="form-label mb-0">Password</label>
+                        <label htmlFor="inputPassword" className="form-label mb-0">Password</label>
                         <input type="password" className="form-control" id="in" required />
                       </div>
                      
@@ -97,7 +98,13 @@ const Layout = () => {
       
         <Outlet />
 
+        {/* <!-- Messenger plug-in --> */}
+
         <footer>
+        {/* <MessengerCustomerChat
+          pageId="101578034933707"
+          appId="554916839866912"
+        /> */}
           <div className="pt-3 pb-1" style={{backgroundColor: "rgb(255,1,1)"}}>
           </div>
           

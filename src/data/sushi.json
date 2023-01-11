@@ -1,0 +1,26 @@
+[
+    {
+      "id": 4,
+      "category": "Sushi",
+      "name": "Salmon Sushi Roll",
+      "price": 60,
+      "info": "Tempura and cucumber wrapped with salmon served with soy sauce and wasabi.",
+      "image": "/img/menu/1-salmon.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Sushi",
+      "name": "Smoked Salmon Sushi",
+      "price": 70,
+      "info": "Layer the cheese mix with the rice, cucumber, and red bell pepper.",
+      "image": "/img/menu/2-smoked.jpg"
+    },
+    {
+      "id": 6,
+      "category": "Sushi",
+      "name": "Palaeo Sushi",
+      "price": 75,
+      "info": "Cauliflower rice, smoked salmon, bacon, asparagus stalks and milk.",
+      "image": "/img/menu/3-paleo.jpg"
+    }
+  ]

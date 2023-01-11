@@ -155,9 +155,9 @@ const About = () => {
       </div>
     </div>
 
-    <div align="right" classNameName="m-0 pb-2 p-0 me-4">
-      <a href="#" classNameName="btn">
-        <i classNameName="fa-solid fa-circle-arrow-up fa-3x" style={{color:"black"}}></i>
+    <div align="right" className="m-0 pb-2 p-0 me-4">
+      <a href="#" className="btn">
+        <i className="fa-solid fa-circle-arrow-up fa-3x" style={{color:"black"}}></i>
       </a>
     </div>
   </div>

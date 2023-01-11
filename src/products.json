@@ -1,0 +1,82 @@
+[
+  { 
+    "id": 0,
+    "category": "Featured",
+    "name": "Best",
+    "price": "150",
+    "info": "Served in Japanese style sesame chili soup with house-made ground spicy soy meat and bok choy.",
+    "image": "/img/menu/1-TanTan.png"
+  },
+  { 
+    "id": 1,
+    "category": "Takoyaki",
+    "name": "Tan Tan",
+    "price": "150",
+    "info": "Served in Japanese style sesame chili soup with house-made ground spicy soy meat and bok choy.",
+    "image": "/img/menu/1-TanTan.png"
+  },
+  {
+    "id": 2,
+    "category": "Takoyaki",
+    "name": "Nikutama",
+    "price": 170,
+    "info": "Made-to-order noodles served with sweet and savory beef, hot spring egg, and BK sauce. Can be served cold upon request.",
+    "image": "/img/menu/2-Nikutama.png"
+  },
+  {
+    "id": 3,
+    "category": "Takoyaki",
+    "name": "Tonkotsu",
+    "price": 180,
+    "info": "Made-to-order noodles served in a pork broth with chashu pork, miso ground pork, garlic, and seasoned egg.",
+    "image": "/img/menu/3-Tonkotsu.png"
+  },
+  {
+    "id": 4,
+    "category": "Sushi",
+    "name": "Salmon Sushi Roll",
+    "price": 60,
+    "info": "Tempura and cucumber wrapped with salmon served with soy sauce and wasabi.",
+    "image": "/img/menu/1-salmon.jpg"
+  },
+    {
+    "id": 5,
+    "category": "Sushi",
+    "name": "Smoked Salmon Sushi",
+    "price": 70,
+    "info": "Layer the cheese mix with the rice, cucumber, and red bell pepper.",
+    "image": "/img/menu/2-smoked.jpg"
+  },
+  {
+    "id": 6,
+    "category": "Sushi",
+    "name": "Palaeo Sushi",
+    "price": 75,
+    "info": "Cauliflower rice, smoked salmon, bacon, asparagus stalks and milk.",
+    "image": "/img/menu/3-paleo.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Ramen",
+    "name": "Tan Tan",
+    "price": "150",
+    "info": "Served in Japanese style sesame chili soup with house-made ground spicy soy meat and bok choy.",
+    "image": "/img/menu/1-TanTan.png"
+  },
+    {
+    "id": 8,
+    "category": "Ramen",
+    "name": "Nikutama",
+    "price": 170,
+    "info": "Made-to-order noodles served with sweet and savory beef, hot spring egg, and BK sauce. Can be served cold upon request.",
+    "image": "/img/menu/2-Nikutama.png"
+  },
+  {
+    "id": 9,
+    "category": "Ramen",
+    "name": "Tonkutsu",
+    "price": 180,
+    "info": "Made-to-order noodles served in a pork broth with chashu pork, miso ground pork, garlic, and seasoned egg.",
+    "image": "/img/menu/3-Tonkotsu.png"
+  }
+]

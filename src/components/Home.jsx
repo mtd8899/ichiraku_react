@@ -13,7 +13,7 @@ const Home = () => {
             <div className="col-lg-4 col-md-12 col-12 ms-lg-5">
                 <img id="conimg" src="img/boat.jpg" 
                   className="img-fluid col-md-9 col-lg-12 mb-5"
-                  style={{border: "5px solid rgb(0, 0, 0)", borderRadius: "15%", borderColor: "#000;"}} alt="BoatPhoto1" />
+                  style={{border: "5px solid rgb(0, 0, 0)", borderRadius: "15%", borderColor: "#000"}} alt="BoatPhoto1" />
             </div>
 
             <div className="col-lg-7 col-md-8 mb-5">

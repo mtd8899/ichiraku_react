@@ -1,0 +1,10 @@
+[
+{
+  "id": 1,
+  "category": "featured",
+  "name": "Sushi Boat",
+  "price": 1500,
+  "info": "All aboard the Sushi Boat! Available in Regular (31 pieces of sashimi, nigiri and makimono) and Deluxe (36 pieces of our bestselling makimono).",
+  "image": "/img/menu/featured.jpg"
+}
+]
